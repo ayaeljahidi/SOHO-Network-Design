@@ -45,4 +45,42 @@ ip dhcp pool Finance-Pool
  dns-server 192.168.1.65
  domain-name Finance.com
 ```
+---
+##📡 Features
+
+VLAN segmentation for security and efficiency
+
+Inter-VLAN routing via Router-on-a-Stick
+
+Automatic IP allocation with DHCP
+
+Wireless access points for mobile devices
+
+Scalable design for future expansion
+
+---
+
+##🚀 How to Use
+
+Open SOHO.pkt in Cisco Packet Tracer.
+
+Verify VLAN assignments and IP addressing.
+
+Test connectivity using ping across different VLANs.
+
+Extend the network by adding more departments or servers if required.
+
+---
+##✅ Results
+
+All departments receive IPs automatically.
+
+Inter-VLAN communication is successful.
+
+Wireless and wired devices work seamlessly.
+
+---
+
+###📷 ***Screenshots***
+
 

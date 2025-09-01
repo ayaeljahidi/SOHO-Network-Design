@@ -3,7 +3,6 @@
 [![Cisco](https://img.shields.io/badge/Cisco-PacketTracer-1BA0D7?logo=cisco&logoColor=white)]()  
 [![CCNA](https://img.shields.io/badge/CCNA-Networking-1E90FF?logo=cisco&logoColor=white)]()  
 [![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)]()  
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()  
 
 This project demonstrates the design and implementation of a **Small Office/Home Office (SOHO) Network** using **Cisco Packet Tracer**.  
 
@@ -46,21 +45,22 @@ ip dhcp pool Finance-Pool
  domain-name Finance.com
 ```
 ---
-##📡 Features
 
-VLAN segmentation for security and efficiency
+# 📡 Features
 
-Inter-VLAN routing via Router-on-a-Stick
+🔹 VLAN segmentation for security and efficiency
 
-Automatic IP allocation with DHCP
+🔹 Inter-VLAN routing via Router-on-a-Stick
 
-Wireless access points for mobile devices
+🔹 Automatic IP allocation with DHCP
 
-Scalable design for future expansion
+🔹 Wireless access points for mobile devices
+
+🔹 Scalable design for future expansion
 
 ---
 
-##🚀 How to Use
+# 🚀 How to Use
 
 Open SOHO.pkt in Cisco Packet Tracer.
 
@@ -71,16 +71,18 @@ Test connectivity using ping across different VLANs.
 Extend the network by adding more departments or servers if required.
 
 ---
-##✅ Results
+# ✅ Results
 
-All departments receive IPs automatically.
+📡 All departments receive IPs automatically.
 
-Inter-VLAN communication is successful.
+🔄 Inter-VLAN communication is successful.
 
-Wireless and wired devices work seamlessly.
+📶 Wireless and wired devices work seamlessly.
 
 ---
 
-###📷 ***Screenshots***
+# 📷 ***Screenshots***
+
+🖼️ Network Topology
 
 

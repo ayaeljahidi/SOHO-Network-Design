@@ -84,5 +84,6 @@ Extend the network by adding more departments or servers if required.
 # 📷 ***Screenshots***
 
 🖼️ Network Topology
-
-
+![Statistics Window](SOHO.png)
+![Statistics Window](soho.png)
+![Statistics Window](wifi.png)

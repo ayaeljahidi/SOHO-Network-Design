@@ -36,8 +36,13 @@ This project demonstrates the design and implementation of a **Small Office/Home
 
 ## 🔧 Configuration Highlights
 
-### VLAN & Router-on-a-Stick Example
+### DHCP Example (Finance VLAN)
 ```bash
-int g0/0.20
- encapsulation dot1Q 20
- ip address 192.168.1.65 255.255.255.192
+service dhcp
+ip dhcp pool Finance-Pool
+ network 192.168.1.64 255.255.255.192
+ default-router 192.168.1.65
+ dns-server 192.168.1.65
+ domain-name Finance.com
+```
+
